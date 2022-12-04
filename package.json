@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  },
+  "name": "intertwine",
+  "description": "A new social media site which aims to be easy to setup and use.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MooseTheGoose/intertwine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MooseTheGoose/intertwine/issues"
+  },
+  "homepage": "https://github.com/MooseTheGoose/intertwine#readme"
+}
